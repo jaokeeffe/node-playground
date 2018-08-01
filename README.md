@@ -1,2 +1,2 @@
 # node-playground
-Node.js and other JavaScript experiments
+Node.js and other JavaScript experiments.
